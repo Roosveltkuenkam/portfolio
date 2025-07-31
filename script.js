@@ -126,20 +126,20 @@ const galleryData = {
     description: 'Système complet de gestion des stocks avec suivi des entrées/sorties, alertes de seuil et reporting.',
     technologies: ['Laravel', 'PostgreSQL', 'Bootstrap', 'JavaScript'],
     images: [
-      'images/projects/stock-1.jpg',
-      'images/projects/stock-2.jpg',
-      'images/projects/stock-3.jpg',
-      'images/projects/stock-4.jpg',
-      'images/projects/stock-5.jpg',
-      'images/projects/stock-6.jpg',
-      'images/projects/stock-7.jpg',
-      'images/projects/stock-8.jpg',
-      'images/projects/stock-9.jpg',
-      'images/projects/stock-10.jpg',
-      'images/projects/stock-11.jpg',
-      'images/projects/stock-12.jpg',
-      'images/projects/stock-13.jpg',
-      'images/projects/stock-14.jpg'
+      'images/projects/stock-1.JPG',
+      'images/projects/stock-2.JPG',
+      'images/projects/stock-3.JPG',
+      'images/projects/stock-4.JPG',
+      'images/projects/stock-5.JPG',
+      'images/projects/stock-6.JPG',
+      'images/projects/stock-7.JPG',
+      'images/projects/stock-8.JPG',
+      'images/projects/stock-9.JPG',
+      'images/projects/stock-10.JPG',
+      'images/projects/stock-11.JPG',
+      'images/projects/stock-12.JPG',
+      'images/projects/stock-13.JPG',
+      'images/projects/stock-14.JPG'
     ]
   },
   'caisses-sociales': {
@@ -147,13 +147,13 @@ const galleryData = {
     description: 'Plateforme de gestion des cotisations sociales pour associations avec suivi des membres et historiques.',
     technologies: ['Laravel', 'MySQL', 'JavaScript', 'Chart.js'],
     images: [
-      'images/projects/caisse-1.jpg',
-      'images/projects/caisse-2.jpg',
-      'images/projects/caisse-3.jpg',
-      'images/projects/caisse-4.jpg',
-      'images/projects/caisse-5.jpg',
-      'images/projects/caisse-6.jpg',
-      'images/projects/caisse-7.jpg'
+      'images/projects/caisse-1.JPG',
+      'images/projects/caisse-2.JPG',
+      'images/projects/caisse-3.JPG',
+      'images/projects/caisse-4.JPG',
+      'images/projects/caisse-5.JPG',
+      'images/projects/caisse-6.JPG',
+      'images/projects/caisse-7.JPG'
     ]
   },
   'gestion-recettes': {
@@ -161,9 +161,9 @@ const galleryData = {
     description: 'Application web pour la gestion des recettes financières avec intégration de paiement en ligne.',
     technologies: ['Laravel', 'MySQL', 'Vue.js', 'Stripe API'],
     images: [
-      'images/projects/recettes-1.jpg',
-      'images/projects/recettes-2.jpg',
-      'images/projects/recettes-3.jpg'
+      'images/projects/recettes-1.JPG',
+      'images/projects/recettes-2.JPG',
+      'images/projects/recettes-3.JPG'
     ]
   },
   'bibliotheque': {
@@ -171,12 +171,12 @@ const galleryData = {
     description: 'Système de gestion de bibliothèque avec catalogue en ligne, gestion des prêts et des retours.',
     technologies: ['PHP', 'MySQL', 'jQuery', 'Bootstrap'],
     images: [
-      'images/projects/biblio-1.jpg',
-      'images/projects/biblio-2.jpg',
-      'images/projects/biblio-3.jpg',
-      'images/projects/biblio-4.jpg',
-      'images/projects/biblio-5.jpg',
-      'images/projects/biblio-6.jpg'
+      'images/projects/biblio-1.JPG',
+      'images/projects/biblio-2.JPG',
+      'images/projects/biblio-3.JPG',
+      'images/projects/biblio-4.JPG',
+      'images/projects/biblio-5.JPG',
+      'images/projects/biblio-6.JPG'
     ]
   },
   'plantainpro': {
@@ -184,12 +184,12 @@ const galleryData = {
     description: 'Système de gestion de bibliothèque avec catalogue en ligne, gestion des prêts et des retours.',
     technologies: ['PHP', 'MySQL', 'jQuery', 'Bootstrap'],
     images: [
-      'images/projects/plantain-1.jpg',
-      'images/projects/plantain-2.jpg',
-      'images/projects/plantain-3.jpg',
-      'images/projects/plantain-4.jpg',
-      'images/projects/plantain-5.jpg',
-      'images/projects/plantain-6.jpg'
+      'images/projects/plantain-1.JPG',
+      'images/projects/plantain-2.JPG',
+      'images/projects/plantain-3.JPG',
+      'images/projects/plantain-4.JPG',
+      'images/projects/plantain-5.JPG',
+      'images/projects/plantain-6.JPG'
     ]
   }
 };
